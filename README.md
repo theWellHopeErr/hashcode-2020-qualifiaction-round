@@ -1,5 +1,5 @@
 # hashcode-2020-qualifiaction-round
-Google HashCode Qualification Round 2020 Submission | Total Score: ```22,906,731```
+Google HashCode Qualification Round 2020 Submission | Total Score: ```22,934,813```
 
 ## Documentation
 ### Quick Start
