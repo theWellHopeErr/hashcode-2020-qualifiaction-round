@@ -61,6 +61,7 @@ for i, library in enumerate(libraries):
 # print(bookScores)
 # print(libraries)
 
+# write result in x_out.txt file
 outFile = open(f"{fileName}_out.txt", "w+")
 outFile.write(f"{len(signedUpLibraries)}\n")
 # print(len(signedUpLibraries))
